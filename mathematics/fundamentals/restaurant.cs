@@ -20,8 +20,6 @@ namespace HackerRannk
                 n--;
             }
 
-            Console.ReadLine();
-
         }
 
         public static int GCD(int a, int b)
